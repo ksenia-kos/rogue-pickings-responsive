@@ -80,6 +80,10 @@ header nav ul li a {
 	color:#77a466;
 }
 
+header nav ul li a:hover {
+	color: #000000;
+}
+
 /*The widths are in a percentage!*/
 .top-section,
 .bottom-section {
